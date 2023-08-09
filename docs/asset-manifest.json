@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.a84e4392.css",
-    "main.js": "./static/js/main.ac300599.js",
+    "main.css": "./static/css/main.6db3777f.css",
+    "main.js": "./static/js/main.76793ae3.js",
     "static/js/787.5f17cb7b.chunk.js": "./static/js/787.5f17cb7b.chunk.js",
     "static/media/login.png": "./static/media/login.00441d05727c45fb9196.png",
     "static/media/push-bg.png": "./static/media/push-bg.c85990b1c2eee516ca23.png",
@@ -48,6 +48,7 @@
     "static/media/tasks-edit-modal2.png": "./static/media/tasks-edit-modal2.70d757fb7d3f07807453.png",
     "static/media/patients-activity.png": "./static/media/patients-activity.76bb1711d2e74bacdd2f.png",
     "static/media/forms-subs2.png": "./static/media/forms-subs2.fe685aeebd032b47bcbe.png",
+    "static/media/tasks-list2-altstore2.png": "./static/media/tasks-list2-altstore2.3935041aafc95eaf51a1.png",
     "static/media/schedule-appts.png": "./static/media/schedule-appts.4418dc93edc1c4d0dd98.png",
     "static/media/schedule-add.png": "./static/media/schedule-add.c44eb52ccb7932539da0.png",
     "static/media/dashboard-right.png": "./static/media/dashboard-right.017b257c65d7f0fbb973.png",
@@ -56,10 +57,8 @@
     "static/media/wellness.png": "./static/media/wellness.a5db0cf717692ac1fdf8.png",
     "static/media/meds.png": "./static/media/meds.b6f363dcc22022655bc9.png",
     "static/media/header-sub.png": "./static/media/header-sub.e8735c5d1159a6b0c6a0.png",
-    "static/media/tasks-list2-brand.png": "./static/media/tasks-list2-brand.693c2ce2cef420bd0000.png",
     "static/media/notifications-modal.png": "./static/media/notifications-modal.460814282c6e51c33094.png",
     "static/media/tasks-panel-alt.png": "./static/media/tasks-panel-alt.5372115d4459321d5acf.png",
-    "static/media/tasks-list2-altstore.png": "./static/media/tasks-list2-altstore.fda5b4454e17bcb58bb4.png",
     "static/media/store-locator-modal.png": "./static/media/store-locator-modal.062ee6a6cfc985e33ba9.png",
     "static/media/messages-send.png": "./static/media/messages-send.fdc54d00bddace1bc81b.png",
     "static/media/messages-convo.png": "./static/media/messages-convo.eb7d3a7c7768c6d2c72e.png",
@@ -71,6 +70,7 @@
     "static/media/messages-chat-modal.png": "./static/media/messages-chat-modal.178ed962a2db06894b58.png",
     "static/media/dashboard-tasks2.png": "./static/media/dashboard-tasks2.e1a4b2218a496366fd0a.png",
     "static/media/meds-reminders.png": "./static/media/meds-reminders.ddf3132ed03d8225d3c4.png",
+    "static/media/tasks-list2-brand2.png": "./static/media/tasks-list2-brand2.a892d93ddaab3de08c16.png",
     "static/media/tasks-editor.png": "./static/media/tasks-editor.09f44825769547e1885c.png",
     "static/media/tasks-panel.png": "./static/media/tasks-panel.49a1aaf38c8b5bbb6703.png",
     "static/media/appts-new-2.png": "./static/media/appts-new-2.69f2562264a5457dad05.png",
@@ -135,12 +135,12 @@
     "static/media/lato-latin-ext-700-normal.woff2": "./static/media/lato-latin-ext-700-normal.9c8812eaec45956201e1.woff2",
     "static/media/lato-latin-ext-100-normal.woff2": "./static/media/lato-latin-ext-100-normal.7a5dea8b0e2bb553f613.woff2",
     "index.html": "./index.html",
-    "main.a84e4392.css.map": "./static/css/main.a84e4392.css.map",
-    "main.ac300599.js.map": "./static/js/main.ac300599.js.map",
+    "main.6db3777f.css.map": "./static/css/main.6db3777f.css.map",
+    "main.76793ae3.js.map": "./static/js/main.76793ae3.js.map",
     "787.5f17cb7b.chunk.js.map": "./static/js/787.5f17cb7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a84e4392.css",
-    "static/js/main.ac300599.js"
+    "static/css/main.6db3777f.css",
+    "static/js/main.76793ae3.js"
   ]
 }
