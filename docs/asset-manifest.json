@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "./static/css/main.5145d297.css",
+    "main.css": "./static/css/main.cd6d369b.css",
     "main.js": "./static/js/main.73e408f9.js",
     "static/js/787.5f17cb7b.chunk.js": "./static/js/787.5f17cb7b.chunk.js",
-    "static/media/login.png": "./static/media/login.00441d05727c45fb9196.png",
+    "static/media/login.png": "./static/media/login.4a077528282a8ff3b3ff.png",
     "static/media/push-bg.png": "./static/media/push-bg.c85990b1c2eee516ca23.png",
     "static/media/marketing-library.png": "./static/media/marketing-library.5c56ab15c46e1ceb29c8.png",
     "static/media/videos-details.png": "./static/media/videos-details.f0dcf6306d52b1979a35.png",
@@ -14,7 +14,7 @@
     "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/home.png": "./static/media/home.8861275af55820274596.png",
     "static/media/messages-auto.png": "./static/media/messages-auto.96645789855415bd6311.png",
-    "static/media/webapp-topnav.png": "./static/media/webapp-topnav.3f771748036dad0a1476.png",
+    "static/media/webapp-topnav.png": "./static/media/webapp-topnav.f1dbd563b14650676d39.png",
     "static/media/webapp-content.png": "./static/media/webapp-content.c8a0df076a809c1d4faa.png",
     "static/media/settings-corporate.png": "./static/media/settings-corporate.d164d031cb027f0435b3.png",
     "static/media/appts-details.png": "./static/media/appts-details.fcfcb0f4991226d5bf9d.png",
@@ -103,13 +103,13 @@
     "static/media/topnav.png": "./static/media/topnav.d062aeede4a0022ff93e.png",
     "static/media/appts-new-5.png": "./static/media/appts-new-5.b96fbca13553e0efb0f3.png",
     "static/media/appts-new-4.png": "./static/media/appts-new-4.fa7427ab23716b681720.png",
-    "static/media/push-notifications.png": "./static/media/push-notifications.bfe3b00048eac5530932.png",
+    "static/media/push-notifications.png": "./static/media/push-notifications.a37c3ae64edd0c5e642e.png",
     "static/media/chat-new.png": "./static/media/chat-new.298e1fd24884d4a7ca0e.png",
-    "static/media/webapp-footer.png": "./static/media/webapp-footer.d78532fe83db16812e95.png",
     "static/media/toggle-mobile.png": "./static/media/toggle-mobile.a0ea8125e9486053f0da.png",
     "static/media/keyboard.png": "./static/media/keyboard.3dd97d5695964a777b4c.png",
     "static/media/messages-sidenav-auto.png": "./static/media/messages-sidenav-auto.236018e2e152679e1b69.png",
     "static/media/lato-all-300-normal.woff": "./static/media/lato-all-300-normal.6e49c6c8ed3ce34f718b.woff",
+    "static/media/webapp-footer.png": "./static/media/webapp-footer.7b9c83570c7452b5febb.png",
     "static/media/icons-lg.png": "./static/media/icons-lg.45debcfb3e9b67dd74db.png",
     "static/media/appts-new-1.png": "./static/media/appts-new-1.8d80d02b33e0e78c26db.png",
     "static/media/lato-all-400-normal.woff": "./static/media/lato-all-400-normal.3dc1eff492ab1f598560.woff",
@@ -138,12 +138,12 @@
     "static/media/lato-latin-ext-700-normal.woff2": "./static/media/lato-latin-ext-700-normal.9c8812eaec45956201e1.woff2",
     "static/media/lato-latin-ext-100-normal.woff2": "./static/media/lato-latin-ext-100-normal.7a5dea8b0e2bb553f613.woff2",
     "index.html": "./index.html",
-    "main.5145d297.css.map": "./static/css/main.5145d297.css.map",
+    "main.cd6d369b.css.map": "./static/css/main.cd6d369b.css.map",
     "main.73e408f9.js.map": "./static/js/main.73e408f9.js.map",
     "787.5f17cb7b.chunk.js.map": "./static/js/787.5f17cb7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5145d297.css",
+    "static/css/main.cd6d369b.css",
     "static/js/main.73e408f9.js"
   ]
 }
