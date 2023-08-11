@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.cd6d369b.css",
-    "main.js": "./static/js/main.19d6832c.js",
+    "main.css": "./static/css/main.9f75ecaa.css",
+    "main.js": "./static/js/main.ffbc7e7a.js",
     "static/js/787.5f17cb7b.chunk.js": "./static/js/787.5f17cb7b.chunk.js",
     "static/media/login.png": "./static/media/login.4a077528282a8ff3b3ff.png",
     "static/media/push-bg.png": "./static/media/push-bg.c85990b1c2eee516ca23.png",
@@ -61,8 +61,8 @@
     "static/media/header-sub.png": "./static/media/header-sub.e8735c5d1159a6b0c6a0.png",
     "static/media/notifications-modal.png": "./static/media/notifications-modal.460814282c6e51c33094.png",
     "static/media/tasks-panel-alt.png": "./static/media/tasks-panel-alt.5372115d4459321d5acf.png",
+    "static/media/messages-send.png": "./static/media/messages-send.2a974b3c52a397952f23.png",
     "static/media/store-locator-modal.png": "./static/media/store-locator-modal.062ee6a6cfc985e33ba9.png",
-    "static/media/messages-send.png": "./static/media/messages-send.fdc54d00bddace1bc81b.png",
     "static/media/messages-convo.png": "./static/media/messages-convo.eb7d3a7c7768c6d2c72e.png",
     "static/media/schedule-calendar.png": "./static/media/schedule-calendar.3460f674e3f4f7a5d7fe.png",
     "static/media/messages-preview-email.png": "./static/media/messages-preview-email.6307ec426495e8e9c479.png",
@@ -88,17 +88,17 @@
     "static/media/tasks-sidenav-grid.png": "./static/media/tasks-sidenav-grid.31277fbed081c9f1a1e2.png",
     "static/media/messages.png": "./static/media/messages.f693cb4261a93df1569a.png",
     "static/media/tasks-sidenav.png": "./static/media/tasks-sidenav.98d8389cbd4f0f80f6d8.png",
-    "static/media/messages-details.png": "./static/media/messages-details.b030ca12a45505c4f002.png",
+    "static/media/messages-details.png": "./static/media/messages-details.4b299dd62918dd6ba4dd.png",
     "static/media/meds-refill-info.png": "./static/media/meds-refill-info.64bf8658d4abce271de7.png",
     "static/media/appts-new-3.png": "./static/media/appts-new-3.28ad8266498936678cb1.png",
     "static/media/messages-preview-voice.png": "./static/media/messages-preview-voice.0bc7a045d583a398d7b8.png",
     "static/media/settings-sidenav.png": "./static/media/settings-sidenav.dd4f8df82aae8b71a46f.png",
     "static/media/dashboard-forms2.png": "./static/media/dashboard-forms2.7027bc88c9fb402ce82a.png",
     "static/media/tasks-filters.png": "./static/media/tasks-filters.dd1c33032c0098886128.png",
+    "static/media/messages-sidebar-bulk.png": "./static/media/messages-sidebar-bulk.980c0d1f4440d7b27216.png",
     "static/media/account-personal.png": "./static/media/account-personal.538a118b98220b1594c0.png",
-    "static/media/messages-sidebar-send2.png": "./static/media/messages-sidebar-send2.bd8cbd128b7ce3ce3900.png",
     "static/media/meds-ready.png": "./static/media/meds-ready.23ce1a04909c57182ca3.png",
-    "static/media/messages-sidenav.png": "./static/media/messages-sidenav.b123729cab285f3ca864.png",
+    "static/media/messages-sidebar-chat.png": "./static/media/messages-sidebar-chat.fca4b3e54ec896f459c2.png",
     "static/media/icons-sm.png": "./static/media/icons-sm.79a0a47bae0529e30fc9.png",
     "static/media/topnav.png": "./static/media/topnav.d062aeede4a0022ff93e.png",
     "static/media/appts-new-5.png": "./static/media/appts-new-5.b96fbca13553e0efb0f3.png",
@@ -107,7 +107,7 @@
     "static/media/chat-new.png": "./static/media/chat-new.298e1fd24884d4a7ca0e.png",
     "static/media/toggle-mobile.png": "./static/media/toggle-mobile.a0ea8125e9486053f0da.png",
     "static/media/keyboard.png": "./static/media/keyboard.3dd97d5695964a777b4c.png",
-    "static/media/messages-sidenav-auto.png": "./static/media/messages-sidenav-auto.236018e2e152679e1b69.png",
+    "static/media/messages-sidenav-auto.png": "./static/media/messages-sidenav-auto.2d3f8a2758e16a795c91.png",
     "static/media/lato-all-300-normal.woff": "./static/media/lato-all-300-normal.6e49c6c8ed3ce34f718b.woff",
     "static/media/webapp-footer.png": "./static/media/webapp-footer.7b9c83570c7452b5febb.png",
     "static/media/icons-lg.png": "./static/media/icons-lg.45debcfb3e9b67dd74db.png",
@@ -138,12 +138,12 @@
     "static/media/lato-latin-ext-700-normal.woff2": "./static/media/lato-latin-ext-700-normal.9c8812eaec45956201e1.woff2",
     "static/media/lato-latin-ext-100-normal.woff2": "./static/media/lato-latin-ext-100-normal.7a5dea8b0e2bb553f613.woff2",
     "index.html": "./index.html",
-    "main.cd6d369b.css.map": "./static/css/main.cd6d369b.css.map",
-    "main.19d6832c.js.map": "./static/js/main.19d6832c.js.map",
+    "main.9f75ecaa.css.map": "./static/css/main.9f75ecaa.css.map",
+    "main.ffbc7e7a.js.map": "./static/js/main.ffbc7e7a.js.map",
     "787.5f17cb7b.chunk.js.map": "./static/js/787.5f17cb7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd6d369b.css",
-    "static/js/main.19d6832c.js"
+    "static/css/main.9f75ecaa.css",
+    "static/js/main.ffbc7e7a.js"
   ]
 }
