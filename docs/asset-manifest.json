@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c02d0af.css",
-    "main.js": "/static/js/main.21191c26.js",
+    "main.css": "/static/css/main.b950f9f7.css",
+    "main.js": "/static/js/main.b3473956.js",
     "static/js/787.5f17cb7b.chunk.js": "/static/js/787.5f17cb7b.chunk.js",
     "static/media/login.png": "/static/media/login.4a077528282a8ff3b3ff.png",
     "static/media/push-bg.png": "/static/media/push-bg.c85990b1c2eee516ca23.png",
@@ -57,6 +57,7 @@
     "static/media/settings-general.png": "/static/media/settings-general.e330208410d6799704d2.png",
     "static/media/account-people.png": "/static/media/account-people.fc9578e4eb1f99c0e9cf.png",
     "static/media/wellness.png": "/static/media/wellness.a5db0cf717692ac1fdf8.png",
+    "static/media/dashboard3-sidenav.png": "/static/media/dashboard3-sidenav.baea3d41ff486d2f64f7.png",
     "static/media/meds.png": "/static/media/meds.b6f363dcc22022655bc9.png",
     "static/media/header-sub.png": "/static/media/header-sub.e8735c5d1159a6b0c6a0.png",
     "static/media/notifications-modal.png": "/static/media/notifications-modal.460814282c6e51c33094.png",
@@ -138,12 +139,12 @@
     "static/media/lato-latin-ext-700-normal.woff2": "/static/media/lato-latin-ext-700-normal.9c8812eaec45956201e1.woff2",
     "static/media/lato-latin-ext-100-normal.woff2": "/static/media/lato-latin-ext-100-normal.7a5dea8b0e2bb553f613.woff2",
     "index.html": "/index.html",
-    "main.8c02d0af.css.map": "/static/css/main.8c02d0af.css.map",
-    "main.21191c26.js.map": "/static/js/main.21191c26.js.map",
+    "main.b950f9f7.css.map": "/static/css/main.b950f9f7.css.map",
+    "main.b3473956.js.map": "/static/js/main.b3473956.js.map",
     "787.5f17cb7b.chunk.js.map": "/static/js/787.5f17cb7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c02d0af.css",
-    "static/js/main.21191c26.js"
+    "static/css/main.b950f9f7.css",
+    "static/js/main.b3473956.js"
   ]
 }
